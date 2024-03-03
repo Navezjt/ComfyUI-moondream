@@ -1,0 +1,4 @@
+- https://github.com/Navezjt/moondream
+- https://github.com/kijai/ComfyUI-moondream
+- https://github.com/Navezjt/ComfyUI-moondream
+- https://github.com/vikhyat/moondream
